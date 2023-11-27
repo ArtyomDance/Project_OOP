@@ -26,5 +26,10 @@ namespace Shiish
             dbManager.ChangeValue(a, "items", b, c);
         }
 
+        public void test(int a) 
+        {
+
+        }
+
     }
 }

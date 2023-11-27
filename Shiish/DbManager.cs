@@ -38,7 +38,7 @@ namespace Shiish
                 }
             }
         }
-
+        // comennt
         public string GetValueByColumn(string columnName, string columnValue, string tableName, string resultColumnName)
         {
             using (NpgsqlConnection con = GetConnection())
